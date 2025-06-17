@@ -5,7 +5,8 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 # Load model
 @st.cache_resource
 def load_model():
-    model = GPT2LMHeadModel.from_pretrained("")
+    model = GPT2LMHeadModel.from_pretrained("Summative-ML-Technique-I-Chatbot
+/my_gpt2_model")
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
     return model, tokenizer
 
