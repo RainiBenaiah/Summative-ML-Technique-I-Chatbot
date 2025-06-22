@@ -2,7 +2,7 @@
 
 # CycleCare Assistant 
 
-An AI-powered period education chatbot designed to provide comprehensive, accessible, and stigma-free menstrual health education. Built using fine-tuned GPT-2 and deployed with Gradio for an intuitive user experience.
+A period education chatbot designed to provide comprehensive, accessible, and stigma-free menstrual health education. Built using fine-tuned GPT-2 and deployed with Gradio for an intuitive user experience.
 
 ## Table of Contents
 
@@ -95,7 +95,7 @@ The model was trained on the Menstrual Health Awareness Dataset from Hugging Fac
 ---
 ## Usage Examples
 
-*Sample image from chatbot interaction will be placed here.*
+* image .*
 
 ### Conversation 1: Basic Period Information  
 **User**: What is PMS?  
@@ -146,17 +146,17 @@ pip install torch transformers gradio pandas numpy
 pip install datasets tokenizers
 pip install scikit-learn matplotlib seaborn
 
-# 4. Download the fine-tuned model (replace URL with actual model path)
+# 4. Download the fine-tuned model 
 wget https://your-model-hosting-url/cyclecare-model.tar.gz
 tar -xzf cyclecare-model.tar.gz
 
 # 5. Run the chatbot
 python app.py
-
+---
 ## Contributing
 
 We welcome community contributions!
-
+---
 ### Steps
 
 1. Fork the repository  
@@ -164,17 +164,17 @@ We welcome community contributions!
 3. Make changes and test  
 4. Commit: `git commit -m "Your changes"`  
 5. Push and open a PR  
-
+---
 ### Contribution Areas
 
 - More dataset samples  
 - UI/UX improvements  
 - Language translations  
 - Mobile optimization  
-
 ---
 ---
-
+---
+---
 ## Acknowledgments
 
 - Dataset: [`gjyotk/Menstrual-Health-Awareness-Dataset`](https://huggingface.co/datasets/gjyotk/Menstrual-Health-Awareness-Dataset)  
@@ -191,10 +191,10 @@ CycleCare Assistant is for educational use only. It should not replace professio
 ---
 
 Made with care to empower period education and break the stigma.
-
+----
 ## Support
 
 - Email: raijustanobody@cyclecare.com  
 - GitHub Issues: [Open an issue](https://github.com/yourusername/cyclecare-assistant/issues)  
 - Discussions: [Join the conversation](https://github.com/yourusername/cyclecare-assistant/discussions)
-
+----
