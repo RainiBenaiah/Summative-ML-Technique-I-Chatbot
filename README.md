@@ -137,9 +137,9 @@ To set up the CycleCare Assistant locally:
 git clone https://github.com/yourusername/cyclecare-assistant.git
 cd cyclecare-assistant
 
-# 2. (Optional) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+# 2. Create and activate a virtual environment
+python -m venv chatbot
+source chatbot/bin/activate  # On Windows: chatbot\Scripts\activate
 
 # 3. Install required dependencies
 pip install torch transformers gradio pandas numpy
