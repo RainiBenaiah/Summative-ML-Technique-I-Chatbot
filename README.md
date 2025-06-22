@@ -184,14 +184,6 @@ We welcome community contributions!
 
 ---
 
-## Support
-
-- Email: raijustanobody@cyclecare.com  
-- GitHub Issues: [Open an issue](https://github.com/yourusername/cyclecare-assistant/issues)  
-- Discussions: [Join the conversation](https://github.com/yourusername/cyclecare-assistant/discussions)
-
----
-
 ## Disclaimer
 
 CycleCare Assistant is for educational use only. It should not replace professional medical consultation. Always consult a healthcare provider for medical concerns.
@@ -199,3 +191,10 @@ CycleCare Assistant is for educational use only. It should not replace professio
 ---
 
 Made with care to empower period education and break the stigma.
+
+## Support
+
+- Email: raijustanobody@cyclecare.com  
+- GitHub Issues: [Open an issue](https://github.com/yourusername/cyclecare-assistant/issues)  
+- Discussions: [Join the conversation](https://github.com/yourusername/cyclecare-assistant/discussions)
+
