@@ -96,7 +96,8 @@ The model was trained on the Menstrual Health Awareness Dataset from Hugging Fac
 ## Usage Examples
 
 * image .*
- ![Screenshot](Screenshot 2025-06-23 110044.png)
+ ![Screenshot](Summative-ML-Technique-I-Chatbot
+/Screenshot 2025-06-23 110044.png)
 
 ### Conversation 1: Basic Period Information  
 **User**: What is PMS?  
