@@ -96,6 +96,8 @@ The model was trained on the Menstrual Health Awareness Dataset from Hugging Fac
 ## Usage Examples
 
 * image .*
+  ![Cycle](cycle.png)
+
 
 
 ### Conversation 1: Basic Period Information  
